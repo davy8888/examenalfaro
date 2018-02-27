@@ -14,11 +14,6 @@ public class examen_alfaro {
 		System.out.println("Hello world");
 	}
 	
-	public static void printTwo() {
-		
-		printOne();
-		printTwo();
-
-	}		
+			
 	
 }
