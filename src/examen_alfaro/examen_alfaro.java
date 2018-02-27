@@ -10,12 +10,11 @@ public class examen_alfaro {
 
 	}
 	
-	Public Static void printOne() {
+	public static void printOne() {
 		System.out.println("Hello world");
 	}
 	
-	
-	Public Static void printTwo() {
+	public static void printTwo() {
 		
 		printOne();
 		printTwo();
